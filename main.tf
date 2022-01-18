@@ -12,7 +12,7 @@ terraform {
 }
 
 provider "aws" {
-  region = "us-west-2"
+  region = "ap-southeast-1"
 }
 
 provider "random" {}
